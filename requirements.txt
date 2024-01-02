@@ -1,0 +1,4 @@
+# The dependencies
+jupyter==1.0.0
+numpy==1.26.2
+pandas==2.1.4
